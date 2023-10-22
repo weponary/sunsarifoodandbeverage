@@ -3,9 +3,9 @@ import styled from "styled-components";
 // Assets
 import {
   BsFacebook,
-  BsGithub,
+  // BsGithub,
   BsInstagram,
-  BsLinkedin,
+  // BsLinkedin,
   BsPhone,
   BsTiktok,
   BsTwitter,
@@ -13,7 +13,7 @@ import {
 import { HiOutlineLocationMarker } from "react-icons/hi";
 import { AiOutlineMail } from "react-icons/ai";
 import { CgWebsite } from "react-icons/cg";
-import { FaDev } from "react-icons/fa";
+// import { FaDev } from "react-icons/fa";
 
 export default function Contact() {
   return (
@@ -101,6 +101,7 @@ export default function Contact() {
                 allowfullscreen=""
                 loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"
+                title="test"
               ></iframe>
             </ImageGrid>
           </div>

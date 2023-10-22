@@ -104,12 +104,12 @@ const HeaderP = styled.div`
     max-width: 100%;
   }
 `;
-const BtnWrapper = styled.div`
-  max-width: 190px;
-  @media (max-width: 960px) {
-    margin: 0 auto;
-  }
-`;
+// const BtnWrapper = styled.div`
+//   max-width: 190px;
+//   @media (max-width: 960px) {
+//     margin: 0 auto;
+//   }
+// `;
 const GreyDiv = styled.div`
   width: 30%;
   height: 700px;

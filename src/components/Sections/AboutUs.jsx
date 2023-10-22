@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import ProjectBox from "../Elements/ProjectBox";
+// import ProjectBox from "../Elements/ProjectBox";
 
 import TeamPhoto from "../../assets/img/ktkAbout.png";
 
@@ -71,11 +71,11 @@ const Advertising = styled.div`
     margin: 80px 0 0px 0;
   }
 `;
-const ButtonsRow = styled.div`
-  @media (max-width: 860px) {
-    justify-content: space-between;
-  }
-`;
+// const ButtonsRow = styled.div`
+//   @media (max-width: 860px) {
+//     justify-content: space-between;
+//   }
+// `;
 const AddLeft = styled.div`
   position: relative;
   width: 50%;
